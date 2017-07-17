@@ -4,6 +4,19 @@ package interestcalc;
 
 public class Calculator {
 
-	//test
+	private double loanAmount;
+	private double interestRate;
+	
+	
+	
+	public static void main(String args[]){
+		
+			
+	}
+	
+	public static void GatherData(){
+		
+	}
+	
 	
 }
